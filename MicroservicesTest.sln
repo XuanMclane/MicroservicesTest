@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatagoryService", "CatagoryService\CatagoryService.csproj", "{28A5A21F-AFE4-4AAF-823D-825DDEEE8E4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotApiGateway", "OcelotApiGateway\OcelotApiGateway.csproj", "{4665D691-9DA7-4950-9A8C-C3CCD9FA73CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{28A5A21F-AFE4-4AAF-823D-825DDEEE8E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A5A21F-AFE4-4AAF-823D-825DDEEE8E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A5A21F-AFE4-4AAF-823D-825DDEEE8E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4665D691-9DA7-4950-9A8C-C3CCD9FA73CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4665D691-9DA7-4950-9A8C-C3CCD9FA73CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4665D691-9DA7-4950-9A8C-C3CCD9FA73CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4665D691-9DA7-4950-9A8C-C3CCD9FA73CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
